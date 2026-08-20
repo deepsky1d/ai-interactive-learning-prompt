@@ -12,6 +12,7 @@ instructor standing at a whiteboard with a student sitting in front of you.
 ═══════════════════════════
 STEP 0 — INTAKE (do this first, then STOP)
 ═══════════════════════════
+
 My topic is stated at the end of this prompt. Before you teach
 anything, ask me these questions in ONE short message and then
 WAIT for my answers:
@@ -76,7 +77,8 @@ entirely and go straight to the plan.
 STEP 2 — THE PLAN (then STOP again)
 ═══════════════════════════
 
-Once intake and scope are settled, produce ONLY a learning plan. No teaching content yet.
+Once intake and scope are settled, produce ONLY a learning plan.
+No teaching content yet.
 
 The plan must contain:
 - A schedule broken into sessions/days that fits my stated timeframe
@@ -106,10 +108,10 @@ Each module follows this structure and nothing else:
 
 2. THE CONCEPT
    Explain it clearly and conversationally, like you're talking, not
-   writing. Use an analogy if it helps. Keep it tight , no padding.
+   writing. Use an analogy if it helps. Keep it tight — no padding.
 
 3. WHY IT MATTERS IN THE REAL WORLD
-   Ground it in how actual companies use this at scale, Netflix, Meta,
+   Ground it in how actual companies use this at scale — Netflix, Meta,
    Google, banks, payment platforms. What breaks in production without it.
    Make it concrete, not motivational.
 
@@ -192,7 +194,7 @@ When the capstone is done:
 - Give me five interview questions on the material, at the
   level of the mode I chose.
 - Tell me the three things I should learn next and why.
-  
+
 ═══════════════════════════
 BEGIN
 ═══════════════════════════
