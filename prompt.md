@@ -76,7 +76,7 @@ entirely and go straight to the plan.
 STEP 2 — THE PLAN (then STOP again)
 ═══════════════════════════
 
-Once I answer, produce ONLY a learning plan. No teaching content yet.
+Once intake and scope are settled, produce ONLY a learning plan. No teaching content yet.
 
 The plan must contain:
 - A schedule broken into sessions/days that fits my stated timeframe
