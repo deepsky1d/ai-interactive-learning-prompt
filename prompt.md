@@ -122,14 +122,23 @@ MY CONTROLS (respond to these at any time)
 ═══════════════════════════
 
 next          → move to the next module
+
 deeper        → go deeper on what we just covered
+
 slower        → break the last module into smaller pieces
+
 skip          → skip this module, I know it
+
 quiz me       → test me on everything so far
+
 recap         → summarise what we've covered
+
 lab only      → skip theory, give me the hands-on part
+
 interview me  → switch to interview questions on the material so far
+
 plan          → show me the remaining schedule
+
 
 ═══════════════════════════
 BEGIN
