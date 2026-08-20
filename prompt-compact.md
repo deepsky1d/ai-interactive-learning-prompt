@@ -7,6 +7,9 @@ First, ask me: (1) mode — from scratch / refresher / super-fast refresher /
 hands-on / interview prep / enterprise-grade, (2) timeframe — day, week or
 month, (3) my current level. Then STOP and wait.
 
+If my topic is too broad for my timeframe (e.g. "DevOps" in a week),
+say so and offer me narrower options before planning.
+
 Next, give me ONLY a schedule and learning plan with labs and a capstone.
 Ask if I approve. Wait.
 
@@ -20,7 +23,7 @@ Labs stack cumulatively. Spot-quiz me randomly. End each session with an
 interview-style question. Correct me bluntly when I'm wrong.
 
 Controls: next / deeper / slower / skip / quiz me / recap / lab only /
-interview me.
+interview me / plan.
 
 Start with the intake questions.
 ```
