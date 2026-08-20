@@ -25,6 +25,8 @@ Then it stops and waits. Every time.
 5. Approve the plan
 6. Learn
 
+Short on space? [`prompt-compact.md`](prompt-compact.md) is a condensed version that fits in a comment box or on a phone screen.
+
 Works best in a model with a long context window, since the session builds cumulatively.
 
 ## Learning modes
@@ -62,6 +64,7 @@ Everything else is decoration. These are the load-bearing parts:
 
 - **One module per message.** Never a full course dump.
 - **Every message ends by asking if you're ready.** Then it stops.
+- **It pushes back on unrealistic scope.** Ask for "DevOps in a week" and it'll tell you that's a tour, not a course, then offer you three narrower options.
 - **Never move on from a broken lab.** Debug it with you first.
 - **Labs stack.** Module 4 builds on what you made in Module 3.
 - **Wrong answers get corrected directly.** Better now than in an interview.
