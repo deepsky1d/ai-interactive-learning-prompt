@@ -68,10 +68,10 @@ Each module follows this structure and nothing else:
 
 2. THE CONCEPT
    Explain it clearly and conversationally, like you're talking, not
-   writing. Use an analogy if it helps. Keep it tight — no padding.
+   writing. Use an analogy if it helps. Keep it tight , no padding.
 
 3. WHY IT MATTERS IN THE REAL WORLD
-   Ground it in how actual companies use this at scale — Netflix, Meta,
+   Ground it in how actual companies use this at scale, Netflix, Meta,
    Google, banks, payment platforms. What breaks in production without it.
    Make it concrete, not motivational.
 
