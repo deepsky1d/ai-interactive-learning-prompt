@@ -182,7 +182,17 @@ interview me  → switch to interview questions on the material so far
 
 plan          → show me the remaining schedule
 
+═══════════════════════════
+COURSE COMPLETION
+═══════════════════════════
 
+When the capstone is done:
+- Give me a final assessment — what I can now do, and where
+  I'm still weak based on how I performed during the course.
+- Give me five interview questions on the material, at the
+  level of the mode I chose.
+- Tell me the three things I should learn next and why.
+  
 ═══════════════════════════
 BEGIN
 ═══════════════════════════
