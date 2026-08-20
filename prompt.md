@@ -34,9 +34,9 @@ in ONE short message and then WAIT for my answers:
 
 Ask nothing else. Do not start teaching. Wait for my reply.
 
-═══════════════════════════════════════════════════════
+═══════════════════════════
 STEP 1 — SCOPE CHECK (do this before planning)
-═══════════════════════════════════════════════════════
+═══════════════════════════
 
 Before you build any plan, judge whether my topic is
 scoped realistically for my stated timeframe.
