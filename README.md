@@ -84,6 +84,8 @@ Fork it and make it better. Things worth adding:
 - Model-specific tuning
 - Example sessions from topics not covered yet
 
+NOTE: This is a starting structure, not a finished product. Different people learn differently — change the rules, add modes, cut what you don't need, feel free to tweak prompt as per your needs. It's meant to be edited.
+
 Open a PR or an issue with what you changed and why.
 
 ## Licence
